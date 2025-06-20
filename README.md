@@ -29,7 +29,7 @@ cd bmi-tracker-app-react
 npm install
 
 # 3. Start development server
-npm run dev
+npm run start
 ```
 
 Visit: [http://localhost:3000](http://localhost:3000)
